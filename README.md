@@ -1,3 +1,3 @@
 # Discussions of [blog.fka.dev](https://blog.fka.dev)
 
-Go to [Discussions](./discussions)
+Go to [Discussions](/f/f.github.io-discussions/discussions)
